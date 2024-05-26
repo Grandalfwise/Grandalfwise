@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on Obsidius Network [Discord](https://discord.gg/aZ4Et5S7pf)
 
-- 🌱 I’m currently learning **JavaScript, Node.js, Java, HTML, CSS, GodotScript**
-
 - 🔭 I’m also currently working on Mineflayer Bots (Private)
+
+- 🌱 I’m currently learning **JavaScript, Node.js, Java, HTML, CSS, GodotScript**
 
 - 👨‍💻 All of my projects are available at (I'm working on a portfolio)
 
