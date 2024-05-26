@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Grandalfwise</h1>
 <h3 align="center">Owner of Obsidius Network, a brand new Minecraft server in development.</h3>
 
-- 🔭 I’m currently working on [Obsidius Network](https://discord.gg/aZ4Et5S7pf)
+- 🔭 I’m currently working on Obsidius Network [Discord](https://discord.gg/aZ4Et5S7pf)
 
 - 🌱 I’m currently learning **JavaScript, Node.js, Java, HTML, CSS, GodotScript**
 
-- 🔭 I’m also currently working on [Mineflayer Bots](Private)
+- 🔭 I’m also currently working on Mineflayer Bots (Private)
 
-- 👨‍💻 All of my projects are available at [I'm working on a portfolio](I'm working on a portfolio)
+- 👨‍💻 All of my projects are available at (I'm working on a portfolio)
 
 - 📫 How to reach me **obsidiusnetwork@outlook.com**
 
-- 📄 Know about my experiences [I'm working on a portfolio](I'm working on a portfolio)
+- 📄 Know about my experiences (I'm working on a portfolio)
 
 - ⚡ Fun fact **I love coding and Minecraft!**
 
