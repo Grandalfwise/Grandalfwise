@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Obsidius Network [Discord](https://discord.gg/aZ4Et5S7pf)
 
-- 🔭 I’m also currently working on an AI RPG website. [Website](https://rpg.obsidiusnet.au)
+- 🔭 I’m also currently working on an AI RPG website. [Website](https://aibound.obsidiusnet.au)
 
 - 🌱 I’m currently learning **JavaScript, Node.js, Java**
 
